@@ -1,0 +1,37 @@
+_repo: La-terre-du-passe_61248
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Braz, Anatole
+    aliases:
+    - Braz, A. Le
+    - Braz, Anatole Le
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '51127'
+    url: http://www.gutenberg.org/2009/agents/51127
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Anatole_Le_Braz
+    - https://en.wikipedia.org/wiki/Anatole_Le_Braz
+description: ''
+gutenberg_bookshelf:
+- FR Voyages et pays
+- FR Nouveautés
+- FR Chroniques
+gutenberg_issued: '2020-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61248'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renan, Ernest, 1823-1892'
+- !lcsh 'Brittany (France) -- Description and travel'
+- !lcc 'DC'
+- !lcsh 'Wales -- Description and travel'
+- !lcc 'PQ'
+- GITenberg
+title: La terre du passé
+url: http://www.gutenberg.org/ebooks/61248
