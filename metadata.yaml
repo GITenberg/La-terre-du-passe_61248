@@ -1,5 +1,8 @@
 _repo: La-terre-du-passe_61248
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61248-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Braz, Anatole
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Anatole_Le_Braz
     - https://en.wikipedia.org/wiki/Anatole_Le_Braz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61248#La-terre-du-passe
 gutenberg_bookshelf:
 - FR Voyages et pays
 - FR Nouveautés
